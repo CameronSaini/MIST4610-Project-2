@@ -70,6 +70,7 @@ Visualization 1:
 This graph shows the owner of each property along with the property’s location and lot size. Since larger plots generally mean larger projects, management can use this information to plan out large projects. For larger sites, site preparation, budgeting, and resource allocation are extensive, so more planning needs to be done. Management can allocate a contractor that deals with large scale projects to these clients to ensure everything runs smoothly
 
 **Property Details**
+
 <img width="1029" alt="Screenshot 2024-12-03 at 5 44 07 PM" src="https://github.com/user-attachments/assets/57d054ca-aefc-4f57-b14a-eac26665f4d7">
 
 Visualization 2:
