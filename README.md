@@ -63,6 +63,19 @@ _Insert Query 3 Description Here_
 
 <img width="626" alt="Screenshot 2024-12-03 at 5 17 02 PM" src="https://github.com/user-attachments/assets/9dacb63a-809c-46c9-89bb-d907125440f7">
 
+Query 4:
+
+_Insert Query 4 Description Here_
+
+<img width="627" alt="Screenshot 2024-12-03 at 6 26 18 PM" src="https://github.com/user-attachments/assets/e0985dba-3e0f-4619-a695-420076935071">
+
+Query 5:
+
+_Insert Query 5 Description Here_
+
+<img width="625" alt="Screenshot 2024-12-03 at 6 26 48 PM" src="https://github.com/user-attachments/assets/83d44521-552c-475f-8c2f-4b26d04f4d74">
+
+
 # Visualization
 
 Visualization 1:
