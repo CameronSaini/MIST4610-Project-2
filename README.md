@@ -13,3 +13,14 @@ Cameron Saini [@cameronsaini](https://github.com/CameronSaini)
 Hitanshi Shah [@hshah56](https://github.com/hshah56)
 
 Tyler Martin [@tjm44974](https://github.com/tjm44794)
+
+# Problem Description
+
+# Data Model
+
+# Data Dictionary
+
+# Queries
+
+# Database Information
+
