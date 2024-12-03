@@ -1,6 +1,6 @@
 # MIST4610-Project-2
 
-# Team Name: 
+Team Name: 
 
 # Members:
 
