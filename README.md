@@ -16,9 +16,11 @@ Tyler Martin [@tjm44974](https://github.com/tjm44794)
 
 # Problem Description:
 
+_Insert Problem Description Here_
+
 # Data Model:
 
-Description
+_Insert Description Here_
 
 <img width="711" alt="Screenshot 2024-12-03 at 5 24 13 PM" src="https://github.com/user-attachments/assets/29a824a6-d6ff-4899-b36a-1b475889185f">
 
@@ -45,16 +47,19 @@ Description
 
 Query 1:
 
+_Insert Query 1 Description Here_
 
 <img width="627" alt="Screenshot 2024-12-03 at 5 16 04 PM" src="https://github.com/user-attachments/assets/d91068b4-3324-43c2-9e46-b5485e5049a3">
 
 Query 2:
 
+_Insert Query 2 Description Here_
 
 <img width="628" alt="Screenshot 2024-12-03 at 5 16 41 PM" src="https://github.com/user-attachments/assets/38c63f14-89d2-4191-8e2a-71d71a71767a">
 
 Query 3:
 
+_Insert Query 3 Description Here_
 
 <img width="626" alt="Screenshot 2024-12-03 at 5 17 02 PM" src="https://github.com/user-attachments/assets/9dacb63a-809c-46c9-89bb-d907125440f7">
 
