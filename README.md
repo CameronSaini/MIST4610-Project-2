@@ -81,6 +81,7 @@ This graph shows management the projects that are currently in progress along wi
 
 <img width="1021" alt="Screenshot 2024-12-03 at 5 46 25 PM" src="https://github.com/user-attachments/assets/1c5baab3-43c8-4f3b-aae1-8bff017b37ce">
 
+
 Visualization 3:
 
 It shows management how many projects are planned for each contractor. With this information, management could better divide the work so that efficiency is maximized. Some projects currently planned for Legacy Contractors, FutureBuild Solutions, and Platinum Contractors could be given to contractors with fewer projects. This way, an equal amount of work could be done by each contractor, maximizing efficiency. In turn, the contractors with fewer projects won't be wasting time sitting around doing nothing while the contractors with a lot of projects have to carry the load.
