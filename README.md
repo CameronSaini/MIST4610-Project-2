@@ -36,17 +36,27 @@ Tyler Martin [@tjm44974](https://github.com/tjm44794)
 <img width="675" alt="image" src="https://github.com/user-attachments/assets/925519c5-a1b8-46bb-9c46-ce4c2c0531b6">
 
 # Queries:
-<img width="583" alt="Screenshot 2024-12-03 at 5 14 57 PM" src="https://github.com/user-attachments/assets/159fa027-a67d-4e27-8567-c3a2a3e5bc2f">
+
+<img width="587" alt="Screenshot 2024-12-03 at 5 20 00 PM" src="https://github.com/user-attachments/assets/294f5499-c5ab-480f-9ba8-e8173ffcd5ac">
 
 Query 1:
+
+
 <img width="627" alt="Screenshot 2024-12-03 at 5 16 04 PM" src="https://github.com/user-attachments/assets/d91068b4-3324-43c2-9e46-b5485e5049a3">
 
 Query 2:
+
+
 <img width="628" alt="Screenshot 2024-12-03 at 5 16 41 PM" src="https://github.com/user-attachments/assets/38c63f14-89d2-4191-8e2a-71d71a71767a">
 
 Query 3:
+
+
 <img width="626" alt="Screenshot 2024-12-03 at 5 17 02 PM" src="https://github.com/user-attachments/assets/9dacb63a-809c-46c9-89bb-d907125440f7">
 
 
 # Database Information
 
+Name of the database: cs_tjm44794
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
