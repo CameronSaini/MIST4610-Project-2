@@ -63,6 +63,30 @@ _Insert Query 3 Description Here_
 
 <img width="626" alt="Screenshot 2024-12-03 at 5 17 02 PM" src="https://github.com/user-attachments/assets/9dacb63a-809c-46c9-89bb-d907125440f7">
 
+# Visualization
+
+Visualization 1:
+
+This graph shows the owner of each property along with the property’s location and lot size. Since larger plots generally mean larger projects, management can use this information to plan out large projects. For larger sites, site preparation, budgeting, and resource allocation are extensive, so more planning needs to be done. Management can allocate a contractor that deals with large scale projects to these clients to ensure everything runs smoothly
+
+**Property Details**
+<img width="1029" alt="Screenshot 2024-12-03 at 5 44 07 PM" src="https://github.com/user-attachments/assets/57d054ca-aefc-4f57-b14a-eac26665f4d7">
+
+Visualization 2:
+
+This graph shows management the projects that are currently in progress along with the project’s spent budget and total budget, grouped by the contractor in charge of each project. This is important to management so they can alert each contractor how their budget is doing and if any budget cuts need to occur. Also, if a project were to be over budget, management could investigate why that occurred.
+
+**Budget and Financials**
+
+<img width="1021" alt="Screenshot 2024-12-03 at 5 46 25 PM" src="https://github.com/user-attachments/assets/1c5baab3-43c8-4f3b-aae1-8bff017b37ce">
+
+Visualization 3:
+
+It shows management how many projects are planned for each contractor. With this information, management could better divide the work so that efficiency is maximized. Some projects currently planned for Legacy Contractors, FutureBuild Solutions, and Platinum Contractors could be given to contractors with fewer projects. This way, an equal amount of work could be done by each contractor, maximizing efficiency. In turn, the contractors with fewer projects won't be wasting time sitting around doing nothing while the contractors with a lot of projects have to carry the load.
+
+**Contractor Load**
+
+<img width="1225" alt="Screenshot 2024-12-03 at 5 47 22 PM" src="https://github.com/user-attachments/assets/81eb64e1-ebed-4d69-bca4-56ef4832c5fb">
 
 # Database Information
 
