@@ -18,6 +18,10 @@ Tyler Martin [@tjm44974](https://github.com/tjm44794)
 
 # Data Model:
 
+Description
+
+<img width="711" alt="Screenshot 2024-12-03 at 5 24 13 PM" src="https://github.com/user-attachments/assets/29a824a6-d6ff-4899-b36a-1b475889185f">
+
 # Data Dictionary:
 <img width="686" alt="image" src="https://github.com/user-attachments/assets/4e631302-0dbb-438d-908b-3801f05336fd">
 <img width="707" alt="image" src="https://github.com/user-attachments/assets/3a639874-7767-4a57-a529-40e12c8536ca">
