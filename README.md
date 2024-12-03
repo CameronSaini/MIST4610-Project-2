@@ -1,8 +1,8 @@
-# MIST4610-Project-2
+# MIST4610 Group Project 2
 
-Team Name: 
+Team Name: DELETE FROM UGA_football_team WHERE PlayerName = 'Carson Beck';
 
-# Members:
+# Team Members:
 
 Miles Cohall [@fromj50](https://github.com/fromj50)
 
@@ -14,11 +14,11 @@ Hitanshi Shah [@hshah56](https://github.com/hshah56)
 
 Tyler Martin [@tjm44974](https://github.com/tjm44794)
 
-# Problem Description
+# Problem Description:
 
-# Data Model
+# Data Model:
 
-# Data Dictionary
+# Data Dictionary:
 <img width="686" alt="image" src="https://github.com/user-attachments/assets/4e631302-0dbb-438d-908b-3801f05336fd">
 <img width="707" alt="image" src="https://github.com/user-attachments/assets/3a639874-7767-4a57-a529-40e12c8536ca">
 <img width="692" alt="image" src="https://github.com/user-attachments/assets/fb76dfcd-b8ba-4a7d-adf3-76fe1539144a">
@@ -35,7 +35,17 @@ Tyler Martin [@tjm44974](https://github.com/tjm44794)
 <img width="667" alt="image" src="https://github.com/user-attachments/assets/5daa64a0-b7f1-4c12-be9f-0548dc3b7673">
 <img width="675" alt="image" src="https://github.com/user-attachments/assets/925519c5-a1b8-46bb-9c46-ce4c2c0531b6">
 
-# Queries
+# Queries:
+<img width="583" alt="Screenshot 2024-12-03 at 5 14 57 PM" src="https://github.com/user-attachments/assets/159fa027-a67d-4e27-8567-c3a2a3e5bc2f">
+
+Query 1:
+<img width="627" alt="Screenshot 2024-12-03 at 5 16 04 PM" src="https://github.com/user-attachments/assets/d91068b4-3324-43c2-9e46-b5485e5049a3">
+
+Query 2:
+<img width="628" alt="Screenshot 2024-12-03 at 5 16 41 PM" src="https://github.com/user-attachments/assets/38c63f14-89d2-4191-8e2a-71d71a71767a">
+
+Query 3:
+<img width="626" alt="Screenshot 2024-12-03 at 5 17 02 PM" src="https://github.com/user-attachments/assets/9dacb63a-809c-46c9-89bb-d907125440f7">
 
 
 # Database Information
