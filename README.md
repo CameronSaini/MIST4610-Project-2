@@ -45,7 +45,7 @@ _Insert Description Here_
 
 # Queries:
 
-<img width="587" alt="Screenshot 2024-12-03 at 5 20 00 PM" src="https://github.com/user-attachments/assets/294f5499-c5ab-480f-9ba8-e8173ffcd5ac">
+<img width="716" alt="Screen Shot 2024-12-03 at 7 54 42 PM" src="https://github.com/user-attachments/assets/e6000320-bf85-4475-b7b7-d1ca080d0176">
 
 **Query 1:**
 This query identifies the top five suppliers in terms of their total budget (their cumulative budget distributed amongst all projects linked to each respective supplier). It highlights which suppliers are the “biggest players” in terms of the firm’s operations. This can help us in many ways, such as optimizing costs and highlighting which suppliers we may want to negotiate with or ensure future collaboration with.
