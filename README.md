@@ -45,32 +45,32 @@ _Insert Description Here_
 
 <img width="587" alt="Screenshot 2024-12-03 at 5 20 00 PM" src="https://github.com/user-attachments/assets/294f5499-c5ab-480f-9ba8-e8173ffcd5ac">
 
-Query 1:
-
+**Query 1:
+**
 This query identifies the top five suppliers in terms of their total budget (their cumulative budget distributed amongst all projects linked to each respective supplier). It highlights which suppliers are the “biggest players” in terms of the firm’s operations. This can help us in many ways, such as optimizing costs and highlighting which suppliers we may want to negotiate with or ensure future collaboration with.
 
 <img width="627" alt="Screenshot 2024-12-03 at 5 16 04 PM" src="https://github.com/user-attachments/assets/d91068b4-3324-43c2-9e46-b5485e5049a3">
 
-Query 2:
-
+**Query 2:
+**
 _Insert Query 2 Description Here_
 
 <img width="628" alt="Screenshot 2024-12-03 at 5 16 41 PM" src="https://github.com/user-attachments/assets/38c63f14-89d2-4191-8e2a-71d71a71767a">
 
-Query 3:
-
+**Query 3:
+**
 This query will enable us to view which contractors are taking on the heaviest workload with regards to tasks. Now, with the breakdown of tasks into active and overdue tasks, we have far better insight as to where we may be able to reallocate our resources in an effort to operate more effectively as a firm. Additionally, we can proactively monitor performance and make decisions based on that. 
 
 <img width="626" alt="Screenshot 2024-12-03 at 5 17 02 PM" src="https://github.com/user-attachments/assets/9dacb63a-809c-46c9-89bb-d907125440f7">
 
-Query 4:
-
+**Query 4:
+**
 This breakdown of the total payments made to each contractor helps bring cost transparency and also assists the managers in monitoring the financial outlays made, observing the compliance of the organization with audit requirements, and providing a clear audit trail for financial statements. Furthermore, it helps in the management of resources by assessing, for managers, whether the budgets are too spread out, if any of the contractors are overstepping the expected cost, and whether the total of invoices is within the set budget for that specific project.
 
 <img width="627" alt="Screenshot 2024-12-03 at 6 26 18 PM" src="https://github.com/user-attachments/assets/e0985dba-3e0f-4619-a695-420076935071">
 
-Query 5:
-
+**Query 5:
+**
 The question pinpoints projects that have been completed with a remaining cost no greater than 20% of the original cost and serves as an early indicator for managers on how to take some corrective action to eliminate the potential risks. Such corrective measures may include adjustment to allocation of resources, or even seeking more funding. Additionally, arranging the results based on the hue of the remaining budget also assists in ensuring that the managers focus on the projects most in danger of being abandoned.
 
 <img width="625" alt="Screenshot 2024-12-03 at 6 26 48 PM" src="https://github.com/user-attachments/assets/83d44521-552c-475f-8c2f-4b26d04f4d74">
