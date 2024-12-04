@@ -40,6 +40,9 @@ _Insert Description Here_
 <img width="682" alt="image" src="https://github.com/user-attachments/assets/51c75a23-b3d7-4528-999c-90eac8ac8e0e">
 <img width="667" alt="image" src="https://github.com/user-attachments/assets/5daa64a0-b7f1-4c12-be9f-0548dc3b7673">
 <img width="675" alt="image" src="https://github.com/user-attachments/assets/925519c5-a1b8-46bb-9c46-ce4c2c0531b6">
+<img width="564" alt="Screen Shot 2024-12-03 at 7 32 32 PM" src="https://github.com/user-attachments/assets/750f6ac6-6d89-4939-9139-2f3f043e38d4">
+<img width="471" alt="Screen Shot 2024-12-03 at 7 32 46 PM" src="https://github.com/user-attachments/assets/896b6379-4de6-4752-9f0a-84594e0e0272">
+
 
 # Queries:
 
@@ -53,7 +56,8 @@ This query identifies the top five suppliers in terms of their total budget (the
 
 **Query 2:
 **
-_Insert Query 2 Description Here_
+This query highlights the top three contractors with the most overdue tasks in terms of total overdue duration (calculated in total days). It  helps project managers identify and address if and which contractors may pose a risk to any project timelines. This enables them to make decisions accordingly. By focusing on the most critical issues, it ensures efficient resource management and improved accountability.
+
 
 <img width="628" alt="Screenshot 2024-12-03 at 5 16 41 PM" src="https://github.com/user-attachments/assets/38c63f14-89d2-4191-8e2a-71d71a71767a">
 
