@@ -16,11 +16,17 @@ Tyler Martin [@tjm44974](https://github.com/tjm44794)
 
 # Problem Description:
 
-_Insert Problem Description Here_
+Our team was tasked with designing a comprehensive database for a construction project management firm. Continuing with the foundation that we had built in our first project, we opted to slightly modify our data model. Originally, our data model placed a central focus on the contractors entity. However, we realized that our data model offered lackluster insight into the projects themselves. We created two new entities, a budgets table and an invoices table. The budgets entity allows us to track where each individual project stands in terms of spending. Additionally, our new invoices entity ensures transparent financial tracking between contractors, owners, et cetera. Acknowledging these new elements, along with the elements already described and justified in project one, our database allows the firm to streamline operations and improve collaboration amongst involved parties. 
 
 # Data Model:
 
-_Insert Description Here_
+This data model represents a construction project management system, organizing key aspects such as property ownership, project details, financials, tasks, permits, and supplier relationships. At its core, land_property represents properties with attributes like location, size, and value, linked to owners, who may own multiple properties. Projects are the central entity, tracking details such as start and end dates, status, and ownership. Each project connects to supporting entities like budgets (tracking financials), invoices (billing records), project_tasks (specific activities within projects), and permits (regulatory compliance).
+
+
+The model includes contractors, capturing details about companies or individuals working on projects, with a many-to-many relationship managed through the projects_ has_contractors table. Similarly, suppliers provide materials and are linked to projects via the supplier_has_projects table. Architecture_firms and their associated building_plans represent design work for projects.
+
+
+Key relationships include one-to-many links, such as between land_property and owners or projects and their related budgets, project_tasks, invoices, and permits. Many-to-many relationships, like those between projects and contractors or suppliers, are managed through associative tables. Overall, the model provides a streamlined structure for managing construction projects, ensuring all resources, stakeholders, and compliance requirements are integrated efficiently.
 
 <img width="711" alt="Screenshot 2024-12-03 at 5 24 13 PM" src="https://github.com/user-attachments/assets/29a824a6-d6ff-4899-b36a-1b475889185f">
 
